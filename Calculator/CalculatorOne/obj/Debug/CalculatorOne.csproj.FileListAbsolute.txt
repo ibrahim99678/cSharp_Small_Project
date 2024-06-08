@@ -1,0 +1,7 @@
+F:\Software_Development\ems_UPDATEiNTERIOR\cSharp_Consol_ Calculator\CalculatorOne\bin\Debug\CalculatorOne.exe.config
+F:\Software_Development\ems_UPDATEiNTERIOR\cSharp_Consol_ Calculator\CalculatorOne\bin\Debug\CalculatorOne.exe
+F:\Software_Development\ems_UPDATEiNTERIOR\cSharp_Consol_ Calculator\CalculatorOne\bin\Debug\CalculatorOne.pdb
+F:\Software_Development\ems_UPDATEiNTERIOR\cSharp_Consol_ Calculator\CalculatorOne\obj\Debug\CalculatorOne.csproj.AssemblyReference.cache
+F:\Software_Development\ems_UPDATEiNTERIOR\cSharp_Consol_ Calculator\CalculatorOne\obj\Debug\CalculatorOne.csproj.CoreCompileInputs.cache
+F:\Software_Development\ems_UPDATEiNTERIOR\cSharp_Consol_ Calculator\CalculatorOne\obj\Debug\CalculatorOne.exe
+F:\Software_Development\ems_UPDATEiNTERIOR\cSharp_Consol_ Calculator\CalculatorOne\obj\Debug\CalculatorOne.pdb
